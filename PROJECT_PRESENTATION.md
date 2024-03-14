@@ -1,8 +1,19 @@
 Put your plan, story, and any supporting material here, you could use the help of a readme markdown generator such as [readme.so](https://readme.so/)
 
 # Timothy's Kata
-
 A kata created by Timothy for the enjoyment and puzzlement of his fellow bootcampers.
+
+## Story 
+You are sat with two frogs on a log, Chris and Tom. They are arguing about who ate the most flies (Poor flies, but what you going to do!). Chris says "I ate the summation of n number of flies!". Tom replies "Well I ate five less than you plus 10"!
+Cat then hops onto the log looking pleased with herself "Well, I ate the same number of flies as both yours combined."'
+
+```mermaid
+flowchart TD            
+   A(Test)
+   A --> B(Function)
+   B --> C(Refactor the Test)
+   C --> A
+```
 
 
 
@@ -22,31 +33,27 @@ A kata created by Timothy for the enjoyment and puzzlement of his fellow bootcam
 
 #### Style of Kata
 
-I am leaning more towards a logic problem as these are the ones I enjoy solving myself.
-I have to be careful that focus creep doesn't become a thing. The logic problem has to fit within the timescale but be hard enough to be enjoyable and challenging.
+I'm leaning towards a mathematical problem.
+I have to be careful that focus creep doesn't become a thing. The maths problem has to fit within the timescale but be hard enough to be enjoyable and challenging.
 
 #### Level I am aiming for
 
 It would be best to aim for a harder kata that is more challenging than different levels of kata. This way I can focus down on planning and testing the one 
 really well thought out kata. This again will help in limiting focus creep.
 
-#### My own logic problem or a famous logic problem with my own spin on it.
-
-I am going to do some evening research on logic problems - as in outside the coding space and narrow down the anwser to this one.
-
 ## Narrowing it down -
 
-- Logic Problem
+- Maths Problem
 
-- One challenging but enjoyable Kata
+- One challenging but enjoyable Kata 
 
-- Famous logic problem with a programmatic spin on it.
-
-- The famous logic problem decision may change after research 
-
-- I have a lot of non-programmatic logic books at home - so this is a good research start.
-
--Once the initial stage is done - I just have to
+- Once the initial stage is done - I just have to
 focus on writing the tests and the coding will fall into place.
 
+## Final Thoughts
+My final thoughts on what decision has been made for the problem I am going to create for my classmates. This has been a difficult thought process - as planning and working out Katas on code wars is one thing. But actually writing one myself is something else. I do think I have it narrowed down to a workable size - a maths problem that is challenging but enjoyable. I plan to work with summation of digits - as this can be done in multiple different ways - one of those being one line of code. This would make it challenging for the solver and would be interesting to see how many answers can be thought up. 
+
+    All these said I think this is going to be a really fun
+    challenge! I look forward to having my fellow bootcampers
+    solve my Kata.
  
