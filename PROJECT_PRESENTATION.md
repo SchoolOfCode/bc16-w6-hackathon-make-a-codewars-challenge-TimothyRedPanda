@@ -5,7 +5,13 @@ A kata created by Timothy for the enjoyment and puzzlement of his fellow bootcam
 
 ## Story 
 You are sat with two frogs on a log, Chris and Tom. They are arguing about who ate the most flies (Poor flies, but what you going to do!). Chris says "I ate the summation of n number of flies!". Tom replies "Well I ate five less than you plus 10"!
-Cat then hops onto the log looking pleased with herself "Well, I ate the same number of flies as both yours combined."'
+Cat then hops onto the log looking pleased with herself "Well, I ate the same number of flies as both yours combined." Loz who came late to the meeting of amphibians is very confused, he asks "So how many did each of you eat?" 
+
+Write a function called "frog_contest" that takes in a number(n) - then returns a string - 'Chris ate {number of flies}, Tom ate {number of flies} and Cat ate {number of flies}.'
+
+Hint -
+Chris ate - summation of n. Once you have this you can use
+it to figure out the other two.
 
 ```mermaid
 flowchart TD            
