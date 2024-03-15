@@ -60,3 +60,12 @@ My final thoughts on what decision has been made for the problem I am going to c
     solve my Kata.
  
  ## What went well and didn't go so well.
+ - I wrote the tests before the coding.
+ - I completed a functional kata - uploaded it to code wars
+ and received feedback from random codewars users.
+ - I feel I planned well but I do still tend to rush and made
+ some silly mistakes from going a bit fast in places.
+ -I contributed to the team a lot more on the Friday - but maybe
+ could have been more involved in the whole team on the Thursday.
+
+ Overall I feel it went really well this hackathon - just need to take what I've learnt and continue to apply it to all my coding. Test - Code - Refactor - Test - Code - Refactor!!!
