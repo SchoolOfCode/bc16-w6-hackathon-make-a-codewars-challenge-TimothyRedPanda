@@ -29,7 +29,7 @@ flowchart TD
 
 - Is it going to be really hard but just one or will it be split into varying difficulties? What level of problem can I myself write within my skill set.
 
-- Will I wright my own problem completely from scratch or will I take a famous Logic problem and put my own spin on it - so it can be solved programmatically.
+- Will I write my own problem completely from scratch or will I take a famous Logic problem and put my own spin on it - so it can be solved programmatically.
 
 ## Answers
 
@@ -59,3 +59,4 @@ My final thoughts on what decision has been made for the problem I am going to c
     challenge! I look forward to having my fellow bootcampers
     solve my Kata.
  
+ ## What went well and didn't go so well.
